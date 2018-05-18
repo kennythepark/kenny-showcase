@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: '/kenny-showcase',
     proxyTable: {},
 
     // Various Dev Server settings
